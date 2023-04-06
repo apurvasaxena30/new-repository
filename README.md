@@ -1,3 +1,3 @@
 # new-repository
 This is new repository.
-This is first commit.
+This is first commit
